@@ -3,7 +3,7 @@ from pygame.locals import QUIT
 
 pygame.init()
 DISPLAYSURF = pygame.display.set_mode((400, 300))
-pygame.display.set_caption("hi")
+pygame.display.set_caption("weouhwiuerh")
 while True:
    for event in pygame.event.get():
        if event.type == QUIT:
